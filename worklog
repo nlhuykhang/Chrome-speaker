@@ -1,0 +1,12 @@
+31/3/2015
+	sound ability: great for popup page
+	how about background page?
+
+	next: test sound ability for background page, icon at right click
+
+1/4/2015
+	can play sound on background, context menu for selection also
+
+	next: currently the file played is a local file, so let test with a file on server
+	hey but, there is no more background page so how can i have the audio tag???
+	can i get the element from popup menu?
